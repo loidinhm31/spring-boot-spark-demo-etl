@@ -1,0 +1,8 @@
+employeeID,firstName,lastName,salary,department,hiringDate
+1,John,Doe,5000,Engineering,2019-12-31
+2,Jane,Smith,6000,Finance,2019-05-15
+3,Michael,Johnson,4500,Sales,2021-03-09
+4,Jane,Doe,5500,HR,2022-02-04
+5,Chris,Anderson,4800,Marketing,2023-07-19
+6,Emily,Wilson,5200,Operations,2022-09-11
+7,David,Williams,5100,Engineering,2023-06-07
